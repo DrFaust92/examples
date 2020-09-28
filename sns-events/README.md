@@ -1,6 +1,6 @@
 # Encrypting S3 Events sent to an SNS Topic
 
-This module creates and example of an S3 Bucket and sends notifications for created files to 
+This module creates an example of an S3 Bucket and sends notifications for created files to 
 an SNS topic that is encrypted using KMS.
 
 Read the original article on [Medium](https://medium.com/@ilia.lazebnik/publishing-s3-events-to-sns-securely-using-terraform-fe6d118e40ed).
