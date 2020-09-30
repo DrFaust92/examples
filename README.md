@@ -4,4 +4,5 @@ This repo contains full working examples (In terraform) for the articles I've wr
 
 ## Modules
 
-* [Encrypting bucket notifications sent to an SNS topic w/KMS](/sns-events/README.md).  
+* [Encrypting bucket notifications sent to an SNS topic w/KMS](/sns-events/README.md).
+* [Accessing a private API Gateway using VPC Endpoints](/apigw-private-endpoint/README.md). 
